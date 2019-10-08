@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "beatz-steph.io/monsters-rolodex/static/css/main.e358a966.chunk.css",
+    "main.js": "beatz-steph.io/monsters-rolodex/static/js/main.a3162d74.chunk.js",
+    "main.js.map": "beatz-steph.io/monsters-rolodex/static/js/main.a3162d74.chunk.js.map",
+    "runtime-main.js": "beatz-steph.io/monsters-rolodex/static/js/runtime-main.569b69c2.js",
+    "runtime-main.js.map": "beatz-steph.io/monsters-rolodex/static/js/runtime-main.569b69c2.js.map",
+    "static/js/2.5075ebff.chunk.js": "beatz-steph.io/monsters-rolodex/static/js/2.5075ebff.chunk.js",
+    "static/js/2.5075ebff.chunk.js.map": "beatz-steph.io/monsters-rolodex/static/js/2.5075ebff.chunk.js.map",
+    "index.html": "beatz-steph.io/monsters-rolodex/index.html",
+    "precache-manifest.cbec4001bc4c244d56fae39befb0f66c.js": "beatz-steph.io/monsters-rolodex/precache-manifest.cbec4001bc4c244d56fae39befb0f66c.js",
+    "service-worker.js": "beatz-steph.io/monsters-rolodex/service-worker.js",
+    "static/css/main.e358a966.chunk.css.map": "beatz-steph.io/monsters-rolodex/static/css/main.e358a966.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.569b69c2.js",
+    "static/js/2.5075ebff.chunk.js",
+    "static/css/main.e358a966.chunk.css",
+    "static/js/main.a3162d74.chunk.js"
+  ]
+}
